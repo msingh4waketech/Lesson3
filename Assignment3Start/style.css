@@ -1,0 +1,9 @@
+h2{
+    font-style: italic;
+}
+h1{
+    font-style: italic;
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+}
